@@ -8,7 +8,7 @@ const Rank = () => {
                 {'Amer Varajic'}
             </div>
             <div className="white f1">
-                {'“The life of spies is to know, not bee known.”'}
+                {'“The life of spies is to know, not be known.”'}
             </div>
 
         </div>
